@@ -1,0 +1,22 @@
+name: flutter_package_template
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://github.com/tmcmaster/flutter_package_template/blob/main/README.md
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.2.0"
+
+flutter:
+  uses-material-design: true
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic:
+  lint:
+  test:
