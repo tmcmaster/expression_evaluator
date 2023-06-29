@@ -1,0 +1,30 @@
+{
+  "name": "expr__'Title = ' + stringToLowercase('Recipe ' + (serves - 1))",
+  "description": "expr__'Description = ' + recipe.name",
+  "difficulty": "Easy",
+  "equipment": [
+    {
+      "name": "Equipment 1"
+    },
+    {
+      "name": "Equipment 2"
+    }
+  ],
+  "ingredients": [
+    {
+      "name": "Ingredient 1",
+      "quantity": "expr__(400-300)",
+      "unit": "g"
+    },
+    {
+      "name": "Ingredient 2",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Ingredient 3",
+      "quantity": 300,
+      "unit": "g"
+    }
+  ]
+}
